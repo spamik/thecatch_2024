@@ -3,7 +3,7 @@ The Catch 2024 - Write-ups
 
 - CSIRT training center
   - [Blacked-out PDF](blackedout_pdf/writeup.md)
-  - Request of cooperation
+  - [Request of cooperation](request_of_cooperation/writeup.md)
   - Personal portal
 - Miscellaneous
   - Who is who
