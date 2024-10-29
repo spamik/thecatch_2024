@@ -7,7 +7,7 @@ The Catch 2024 - Write-ups
   - [Personal portal](personal_portal/writeup.md)
 - Miscellaneous
   - [Who is who](who_is_ho/writeup.md)
-  - Leonidas
+  - [Leonidas](leonidas/writeup.md)
   - Old service
   - DNS madness
   - Snake game
