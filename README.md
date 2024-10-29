@@ -15,7 +15,7 @@ The Catch 2024 - Write-ups
 - Security conerns
   - [Long secure password](long_secure_password/writeup.md)
   - [Admin Johnson](admin_johnson/writeup.md)
-  - Johny's notes
+  - [Johny's notes](johnys_notes/writeup.md)
   - Admin John
 - LORE
   - Chapter 1: Tracel
