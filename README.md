@@ -14,7 +14,7 @@ The Catch 2024 - Write-ups
   - [Incident reporting](incident_reporting/writeup.md)
 - Security conerns
   - Long secure password
-  - Admin Johnson
+  - [Admin Johnson](admin_johnson/writeup.md)
   - Johny's notes
   - Admin John
 - LORE
