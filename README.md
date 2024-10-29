@@ -18,7 +18,7 @@ The Catch 2024 - Write-ups
   - [Johny's notes](johnys_notes/writeup.md)
   - Admin John
 - LORE
-  - Chapter 1: Tracel
+  - [Chapter 1: Travel](lore_travel/writeup.md)
   - Chapter 2: Origins
   - Chapter 3: Bounded
   - Chapter 4: Uncle
