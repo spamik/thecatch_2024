@@ -8,7 +8,7 @@ The Catch 2024 - Write-ups
 - Miscellaneous
   - [Who is who](who_is_ho/writeup.md)
   - [Leonidas](leonidas/writeup.md)
-  - Old service
+  - [Old service](old_service/writeup.md)
   - DNS madness
   - Snake game
   - Incident reporting
