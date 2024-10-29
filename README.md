@@ -11,7 +11,7 @@ The Catch 2024 - Write-ups
   - [Old service](old_service/writeup.md)
   - [DNS madness](dns_madness/writeup.md)
   - Snake game
-  - Incident reporting
+  - [Incident reporting](incident_reporting/writeup.md)
 - Security conerns
   - Long secure password
   - Admin Johnson
