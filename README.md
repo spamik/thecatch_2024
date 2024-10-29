@@ -13,7 +13,7 @@ The Catch 2024 - Write-ups
   - Snake game
   - [Incident reporting](incident_reporting/writeup.md)
 - Security conerns
-  - Long secure password
+  - [Long secure password](long_secure_password/writeup.md)
   - [Admin Johnson](admin_johnson/writeup.md)
   - Johny's notes
   - Admin John
