@@ -6,7 +6,7 @@ The Catch 2024 - Write-ups
   - [Request of cooperation](request_of_cooperation/writeup.md)
   - [Personal portal](personal_portal/writeup.md)
 - Miscellaneous
-  - Who is who
+  - [Who is who](who_is_ho/writeup.md)
   - Leonidas
   - Old service
   - DNS madness
