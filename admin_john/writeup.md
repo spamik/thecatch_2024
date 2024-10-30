@@ -1,4 +1,4 @@
-Security conerns: Johny's notes
+Security conerns: Admin John
 ======================================
 
 
