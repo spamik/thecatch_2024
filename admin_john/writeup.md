@@ -60,7 +60,7 @@ for i in $(seq 10000); do printf "Enterprise%04d\n" $i; done > list.txt
 
 And crack it with John The Ripper (note that hashcat should also work and with mask shouldn't be needed generating password list but on my WS for some reason hashcat won't recognize SSH keyfile):
 
-````
+```
 ssh2john id_rsa > hash
 john --wordlist=./list.txt hash
 john --show hash  
