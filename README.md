@@ -16,7 +16,7 @@ The Catch 2024 - Write-ups
   - [Long secure password](long_secure_password/writeup.md)
   - [Admin Johnson](admin_johnson/writeup.md)
   - [Johny's notes](johnys_notes/writeup.md)
-  - Admin John
+  - [Admin John](admin_john/writeup.md)
 - LORE
   - [Chapter 1: Travel](lore_travel/writeup.md)
   - [Chapter 2: Origins](lore_origins/writeup.md)
