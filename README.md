@@ -21,4 +21,4 @@ The Catch 2024 - Write-ups
   - [Chapter 1: Travel](lore_travel/writeup.md)
   - [Chapter 2: Origins](lore_origins/writeup.md)
   - [Chapter 3: Bounded](lore_bounded/writeup.md)
-  - Chapter 4: Uncle
+  - [Chapter 4: Uncle](lore_uncle/writeup.md)
