@@ -10,7 +10,7 @@ The Catch 2024 - Write-ups
   - [Leonidas](leonidas/writeup.md)
   - [Old service](old_service/writeup.md)
   - [DNS madness](dns_madness/writeup.md)
-  - Snake game
+  - [Snake game](snake_game/writeup.md)
   - [Incident reporting](incident_reporting/writeup.md)
 - Security conerns
   - [Long secure password](long_secure_password/writeup.md)
