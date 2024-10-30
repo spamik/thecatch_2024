@@ -19,6 +19,6 @@ The Catch 2024 - Write-ups
   - Admin John
 - LORE
   - [Chapter 1: Travel](lore_travel/writeup.md)
-  - Chapter 2: Origins
+  - [Chapter 2: Origins](lore_origins/writeup.md)
   - Chapter 3: Bounded
   - Chapter 4: Uncle
